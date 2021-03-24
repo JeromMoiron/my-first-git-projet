@@ -11,17 +11,9 @@ Quero poder:
 - Aprender markdown
 - Aprender a facer manuais
 
+## Indice
 
-
-## Aprender git
-
-``` sql
-Select name
-From world
-Where continent = 'Europe';
-```
-
-
+1. [Capítulo 1 - SQL](./capitulo-1/README.md)
 
 
 
